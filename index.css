@@ -1,15 +1,41 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+
+h1{
+	font-size:1.7em;
+	color:maroon;
+	text-shadow:0.7px 0.7px 1.7px blue;
+}
+
 p{
 	color:black;
-	font-size:16px;
+	font-size:1.1em;
+	font-family:Times New Roman;
+	letter-spacing:0.5;
 }
 
 #dipa{
 	color:darkgreen;
-	font-style:bold;
+	font-style:200;
+	font-sze:1.3em;
+	text-align:center;
 }
 
 li{
+	
 	color:grey;
 	font-style:italic;
+	font-size:1em;
+	font-family:Times New Roman;
 
 }
+
+.p1{
+	border:3px double maroon;
+	padding:2em;
+	border-radius:10px;
+	box-shadow:1px 1px 2px maroon;
+}
+
